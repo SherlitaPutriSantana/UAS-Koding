@@ -2,10 +2,10 @@
 
 ## UAS Pengkodean dan Pemrograman kelas F
 ## Nama Anggota Kelompok
- ## Aulia Azzahra
- ## Aulia Indraswari
- ## Edwitha Rahma Putri Maharani
- ## Sherlita Putri Santana
+Aulia Azzahra
+Aulia Indraswari
+Edwitha Rahma Putri Maharani
+Sherlita Putri Santana
 
 ## Screenshots
 
