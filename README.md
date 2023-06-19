@@ -1,4 +1,11 @@
-# Laravel 8 - Point of Sale Application
+# Laravel 8 - UMKM Food and Beverage
+
+## UAS Pengkodean dan Pemrograman kelas F
+Nama Kelompok
+Aulia Azzahra
+Aulia Indraswari 
+Edwitha Rahma Putri
+Sherlita Putri
 
 ## Screenshots
 
