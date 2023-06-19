@@ -1,7 +1,11 @@
 # Laravel 8 - UMKM Food and Beverage
 
 ## UAS Pengkodean dan Pemrograman kelas F
-![preview img](/Screenshot (100) 1.png)
+##Nama Anggota Kelompok
+ ##Aulia Azzahra
+ ##Aulia Indraswari
+ ##Edwitha Rahma Putri Maharani
+ ##Sherlita Putri Santana
 
 ## Screenshots
 
